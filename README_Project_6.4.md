@@ -2,7 +2,9 @@
 MATLAB for neuroscientist 2nd projects records 
 
 >>>> PART I: Experiement details
+
 Task:
+
 Find target with unique feature combination(shape+color) from all other distractors(feature combination with number>=2) and track response time(RT)
 Features: shape("o" OR "x"); color("red" OR "blue");
 
