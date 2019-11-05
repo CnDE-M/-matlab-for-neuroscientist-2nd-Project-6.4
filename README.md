@@ -69,6 +69,11 @@ Here shows hints in command window:
 			Randomly generated in a 6×6 grid
 		+ Target or not:
 			Whether the trial has target or not is randomly determined.
+			
+Here shows 2 vision search display window, with target or not:
+<div align=center>
+	<img width="450" height="500" src="https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/condition_introduction.png"/>
+</div>
 
 
 3. Subject and Response Collection:
