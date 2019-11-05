@@ -112,11 +112,13 @@ From both results, conjunction search showed are higher positive linear correlat
 
 2. It is not clear whether subject did see the target stimulus and then response that there is target. That is to say, subject made correct response by accident, and that false positive error needed to be clarified, maybe with eye tracking machine.
 
-3. Importance laid on color: In the post-interview of subjects, feature color are reported to be more saliently recognizable compared to shape difference. Besides, the thicker the edge is, the more salient the shape difference is. 
+3. Timer used for recording response time is not accurate, with great bias from others programs in CPU. 
+
+4. Importance laid on color: In the post-interview of subjects, feature color are reported to be more saliently recognizable compared to shape difference. Besides, the thicker the edge is, the more salient the shape difference is. 
 
 	What if we analyse data seperated by basic-feature? Does it indicate basic-feature recognition priority? Does it indicate processing levels in primitive features?
 
-4. When using color as feature, be careful of color blind among subjects (red/green, blue/red, ....)
+5. When using color as feature, be careful of color blind among subjects (red/green, blue/red, ....)
 
 
 ## Reference
