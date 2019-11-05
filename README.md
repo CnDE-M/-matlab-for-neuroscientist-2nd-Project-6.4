@@ -71,8 +71,9 @@ Here shows hints in command window:
 			Whether the trial has target or not is randomly determined.
 			
 Here shows 2 vision search display window, with target or not:
+
 <div align=center>
-	<img width="450" height="500" src="https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/condition_introduction.png"/>
+	<img width="962" height="600" src="https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/condition_introduction.png"/>
 </div>
 
 
