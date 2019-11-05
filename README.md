@@ -1,6 +1,6 @@
 # Feature/Conjunction Search experiment
 
-The project is to briefly reproduce "feature search and conjuection search" based on the study of Treisman and Gelade (1980)<sub>[1]</sup>. Results are collected from 2 subjects (one is the author), and then analyzed. The goal is to check if the conclusion could be reproduced.
+The project is to briefly reproduce "feature search and conjuection search" based on the study of Treisman and Gelade (1980)<sup>[1]</sup>. Results are collected from 2 subjects (one is the author), and then analyzed. The goal is to check if the conclusion could be reproduced.
 
 ## Introduction
 
