@@ -90,12 +90,13 @@ As is reported from subject, feature search are easier to do than conjunction se
 For blocked session of feature search and conjunction search:
 
 <div align=center>
-	<img width="700" height="500" src="https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/pure_feature_conjunction.png"/>
+	<img width="617" height="441" src="https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/pure_feature_conjunction.png" alt="blocked trials"/>
 </div>
 
+For interleaved session of feature search and conjunction search:
 
 <div align=center>
-	<img width="700" height="500" src="https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/interleaved_feature_conjunction.png"/>
+	<img width="617" height="441" src="https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/interleaved_feature_conjunction.png" alt="interleaved trials"/>
 </div>
 
 
