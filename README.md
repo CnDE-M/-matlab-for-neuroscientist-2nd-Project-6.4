@@ -38,7 +38,7 @@ According to result from Treisman and Gelade (1980) study, in feature search con
 	
 Here shows hints in command window:
 
-![image]("https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/command_window.png")
+![image](https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/command_window.png)
 
 
 2. Elements Settings in trial:
@@ -87,12 +87,12 @@ As is reported from subject, feature search are easier to do than conjunction se
 
 For blocked session of feature search and conjunction search:
 
-![image]("https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/pure_feature_conjunction.png")
+![image](https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/pure_feature_conjunction.png)
 
 
 For interleaved session of feature search and conjunction search:
 
-![image]("https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/interleaved_feature_conjunction.png")
+![image](https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/interleaved_feature_conjunction.png)
 
 From both results, conjunction search showed are higher positive linear correlation with stimulus size compared to feature search, and this result is consistent to previous research.
 
@@ -111,7 +111,7 @@ What if we analyse data seperated by basic-feature? Does it indicate basic-featu
 3. When using color as feature, be careful of color blind among subjects (red/green, blue/red, ....)
 
 
-*Reference*
+## Reference
 
 [1] Treisman A M, Gelade G. A feature-integration theory of attention[J]. Cognitive psychology, 1980, 12(1): 97-136.
 
