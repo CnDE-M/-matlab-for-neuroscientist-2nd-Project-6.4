@@ -18,23 +18,24 @@ According to result from Treisman and Gelade (1980) study, in feature search con
 ## Design
 
 1. Experiment Process:
-[1] Practice Session
-	This is to help subjects familiar with the experiment.
-	+ Feature Search: 4
-	+ Conjunction Search: 4
-	
-	If response correctness >= 80%, the subject are allowed to start the following sessions
 
-[2] Pure Feature Search
-	Trial number: 10
+	[1] Practice Session
+		This is to help subjects familiar with the experiment.
+		+ Feature Search: 4
+		+ Conjunction Search: 4
 
-[3] Pure Conjunction Search
-	Trial number: 10
+		If response correctness >= 80%, the subject are allowed to start the following sessions
 
-[4] Interleaved Search
-	+ Feature Search: 10
-	+ Conjunction Search: 10
-	Trials of both conditions are in random sequence
+	[2] Pure Feature Search
+		Trial number: 10
+
+	[3] Pure Conjunction Search
+		Trial number: 10
+
+	[4] Interleaved Search
+		+ Feature Search: 10
+		+ Conjunction Search: 10
+		Trials of both conditions are in random sequence
 	
 Here shows hints in command window:
 
@@ -81,10 +82,11 @@ Here shows 2 vision search display window, with target or not:
 
 Subjects are required to judge whether there is a target stimulus or not. Response should be as quick as possible while making sure that is correct.
 
-Experiment will collect 
-(1) Condition[Vision Search Type & stimulus number]  
-(2) Response time 
-(3) Correctness, only response time of correct response will be analysed.
+Experiment will collect:
+
+	(1) Condition: Vision Search Type & stimulus number  
+	(2) Response: target or not & time 
+	(3) Correctness. Only response time of correct response will be analysed.
 
 For each vision search type, plot out 【Response time ~ Stimulus number]
 Then analyze by linear regression and Pearson correlation.
