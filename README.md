@@ -35,6 +35,11 @@ According to result from Treisman and Gelade (1980) study, in feature search con
 	+ Feature Search: 10
 	+ Conjunction Search: 10
 	Trials of both conditions are in random sequence
+	
+Here shows hints in command window:
+
+![image]("https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/command_window.png")
+
 
 2. Elements Settings in trial:
 
@@ -82,12 +87,12 @@ As is reported from subject, feature search are easier to do than conjunction se
 
 For blocked session of feature search and conjunction search:
 
-![image]("")
+![image]("https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/pure_feature_conjunction.png")
 
 
 For interleaved session of feature search and conjunction search:
 
-![image]("")
+![image]("https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/interleaved_feature_conjunction.png")
 
 From both results, conjunction search showed are higher positive linear correlation with stimulus size compared to feature search, and this result is consistent to previous research.
 
@@ -97,7 +102,7 @@ From both results, conjunction search showed are higher positive linear correlat
 
 1. Subjects report that "Conjunction Search" are harder to perform. However, **tricks** could be found. For instance, to determine whether one of 3 types of stimulus is target, subject can simply find whether there are more than one stimulus for each type. Apparently, this trick could weaken effect from increasing stimulus numbers.  
 
-Besides, subjects report that if stimulus number is small, thus too sparse distributed in the screen, they also feel difficult to see all stimulus quickly, which either leads to wrong response or longer response time.
+	Besides, subjects report that if stimulus number is small, thus too sparse distributed in the screen, they also feel difficult to see all stimulus quickly, which either leads to wrong response or longer response time.
 
 2. Importance laid on color: In the post-interview of subjects, feature color are reported to be more saliently recognizable compared to shape difference. Besides, the thicker the edge is, the more salient the shape difference is. 
 
