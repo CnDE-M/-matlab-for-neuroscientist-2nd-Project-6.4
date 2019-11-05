@@ -110,11 +110,13 @@ From both results, conjunction search showed are higher positive linear correlat
 
 	Besides, subjects report that if stimulus number is small, thus too sparse distributed in the screen, they also feel difficult to see all stimulus quickly, which either leads to wrong response or longer response time.
 
-2. Importance laid on color: In the post-interview of subjects, feature color are reported to be more saliently recognizable compared to shape difference. Besides, the thicker the edge is, the more salient the shape difference is. 
+2. It is not clear whether subject did see the target stimulus and then response that there is target. That is to say, subject made correct response by accident, and that false positive error needed to be clarified, maybe with eye tracking machine.
+
+3. Importance laid on color: In the post-interview of subjects, feature color are reported to be more saliently recognizable compared to shape difference. Besides, the thicker the edge is, the more salient the shape difference is. 
 
 	What if we analyse data seperated by basic-feature? Does it indicate basic-feature recognition priority? Does it indicate processing levels in primitive features?
 
-3. When using color as feature, be careful of color blind among subjects (red/green, blue/red, ....)
+4. When using color as feature, be careful of color blind among subjects (red/green, blue/red, ....)
 
 
 ## Reference
