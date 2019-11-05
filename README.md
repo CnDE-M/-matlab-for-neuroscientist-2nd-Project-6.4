@@ -1,6 +1,6 @@
 # Feature/Conjunction Search experiment
 
-The project is to briefly reproduce "feature search and conjuection search" based on the study of Treisman and Gelade (1980)<sub>[1]</sub>. Results are collected from 2 subjects (one is the author), and then analyzed. The goal is to check if the conclusion could be reproduced.
+The project is to briefly reproduce "feature search and conjuection search" based on the study of Treisman and Gelade (1980)<sub>[1]</sup>. Results are collected from 2 subjects (one is the author), and then analyzed. The goal is to check if the conclusion could be reproduced.
 
 ## Introduction
 
@@ -112,7 +112,7 @@ From both results, conjunction search showed are higher positive linear correlat
 
 2. Importance laid on color: In the post-interview of subjects, feature color are reported to be more saliently recognizable compared to shape difference. Besides, the thicker the edge is, the more salient the shape difference is. 
 
-What if we analyse data seperated by basic-feature? Does it indicate basic-feature recognition priority? Does it indicate processing levels in primitive features?
+	What if we analyse data seperated by basic-feature? Does it indicate basic-feature recognition priority? Does it indicate processing levels in primitive features?
 
 3. When using color as feature, be careful of color blind among subjects (red/green, blue/red, ....)
 
@@ -121,4 +121,4 @@ What if we analyse data seperated by basic-feature? Does it indicate basic-featu
 
 [1] Treisman A M, Gelade G. A feature-integration theory of attention[J]. Cognitive psychology, 1980, 12(1): 97-136.
 
-[2]Wallisch P, Lusignan M E, Benayoun M D, et al. MATLAB for neuroscientists: an introduction to scientific computing in MATLAB[M]. Academic Press, 2014: 151-164.
+[2] Wallisch P, Lusignan M E, Benayoun M D, et al. MATLAB for neuroscientists: an introduction to scientific computing in MATLAB[M]. Academic Press, 2014: 151-164.
