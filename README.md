@@ -38,7 +38,9 @@ According to result from Treisman and Gelade (1980) study, in feature search con
 	
 Here shows hints in command window:
 
-![image](https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/command_window.png)
+<div align=center>
+	<img width="450" height="500" src="https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/command_window.png"/>
+</div>
 
 
 2. Elements Settings in trial:
@@ -87,12 +89,15 @@ As is reported from subject, feature search are easier to do than conjunction se
 
 For blocked session of feature search and conjunction search:
 
-![image](https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/pure_feature_conjunction.png)
+<div align=center>
+	<img width="700" height="500" src="https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/pure_feature_conjunction.png"/>
+</div>
 
 
-For interleaved session of feature search and conjunction search:
+<div align=center>
+	<img width="700" height="500" src="https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/interleaved_feature_conjunction.png"/>
+</div>
 
-![image](https://github.com/CnDE-M/Feature_Or_Conjunction_Search_Experiment/blob/master/result_image/interleaved_feature_conjunction.png)
 
 From both results, conjunction search showed are higher positive linear correlation with stimulus size compared to feature search, and this result is consistent to previous research.
 
